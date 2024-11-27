@@ -1,2 +1,2 @@
 # Projects
-### this file contains all required instrutions to describe the different project aspecs
+### this file will contain all required instrutions to describe the different project aspecs
